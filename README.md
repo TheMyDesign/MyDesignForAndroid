@@ -23,7 +23,7 @@ To run the MyDesignForAndroid application locally, follow these steps:
 3. Build and run the project on an Android device or emulator.
 
 ## App screens
-![Uploading סוג כניסה.png…]()
+![סוג כניסה](https://github.com/TheMyDesign/MyDesignForAndroid/assets/74601548/c3b67e1d-0b1c-4254-98d5-0b9fac1352d2)
 
 ![סוג עיצוב](https://github.com/TheMyDesign/MyDesignForAndroid/assets/74601548/7f780e6b-4923-46f5-871b-f244612b856c)
 
