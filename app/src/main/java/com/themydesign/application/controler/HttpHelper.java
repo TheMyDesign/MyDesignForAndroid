@@ -1,4 +1,4 @@
-package com.themydesign.application.controler;
+package com.example.mydesign.controler;
 import static java.lang.Thread.sleep;
 
 import android.os.AsyncTask;
