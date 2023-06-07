@@ -50,6 +50,3 @@ Contributions to MyDesignForAndroid are welcome! If you would like to contribute
 4. Open a pull request with a detailed description of your changes.
 
 Please make sure to follow the code style and conventions used in the project.
-
-
-Feel free to modify the README as per your specific project details and requirements.
