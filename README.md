@@ -23,18 +23,21 @@ To run the MyDesignForAndroid application locally, follow these steps:
 3. Build and run the project on an Android device or emulator.
 
 ## App screens
-![כניסה](https://github.com/TheMyDesign/MyDesignForAndroid/assets/74601548/625ee4ac-bc30-4220-b9f0-002b644217f5)
+
+![WhatsApp Image 2023-08-15 at 19 25 56](https://github.com/TheMyDesign/MyDesignForAndroid/assets/74601548/30988611-1815-4ef8-b24d-3b9206577793)
 
 
-![סוג כניסה](https://github.com/TheMyDesign/MyDesignForAndroid/assets/74601548/c3b67e1d-0b1c-4254-98d5-0b9fac1352d2)
-
-![סוג עיצוב](https://github.com/TheMyDesign/MyDesignForAndroid/assets/74601548/7f780e6b-4923-46f5-871b-f244612b856c)
+![WhatsApp Image 2023-08-15 at 19 26 37](https://github.com/TheMyDesign/MyDesignForAndroid/assets/74601548/5e49a39c-d231-4a50-a569-66267938b8b8)
 
 
-![בחירת עיצוב אישי](https://github.com/TheMyDesign/MyDesignForAndroid/assets/74601548/0af257a9-4c26-448a-b7e1-1bd6b9a66ccd)
+![WhatsApp Image 2023-08-15 at 19 28 59](https://github.com/TheMyDesign/MyDesignForAndroid/assets/74601548/3a6706ab-4da4-44aa-bffc-b2e2e900a46e)
 
-![כניסה לספק](https://github.com/TheMyDesign/MyDesignForAndroid/assets/74601548/9d23a46d-6b39-4d28-91e7-6b14e6d24164)
 
+
+![WhatsApp Image 2023-08-15 at 19 29 51](https://github.com/TheMyDesign/MyDesignForAndroid/assets/74601548/4e3a95de-5f20-4ccc-85f3-d37893412cf9)
+
+
+![WhatsApp Image 2023-08-15 at 19 30 35](https://github.com/TheMyDesign/MyDesignForAndroid/assets/74601548/2fd2fc1b-589e-4c4f-b13e-6fb2b8d06691)
 
 
 ## Contributions
